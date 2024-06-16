@@ -1,8 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Raihan Putra Darmawan's Next.js Project
 
 ## Getting Started
 
-First, run the development server:
+To start the development server, use one of the following commands:
 
 ```bash
 npm run dev
@@ -34,3 +34,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Project Overview
+This project demonstrates the basics of a Next.js application, featuring a responsive design and integration with a public API to fetch and display user data. It's styled using Tailwind CSS, offering a clean and modern UI.
+
+Features
+Responsive Design: The application is fully responsive, ensuring a seamless experience across all devices.
+API Integration: Fetches data from a public API and displays it in a user-friendly format.
+Dynamic Styling: Uses Tailwind CSS for easy and customizable styling.
+Structure
+Components: Reusable components like User for displaying individual user information.
+Pages: Main page setup in app/page.tsx for easy modification and updates.
+Styles: Tailwind CSS for modern and responsive design.
+Usage
+Fetching Data: The application fetches user data from the jsonplaceholder.typicode.com API.
+Displaying Data: Each user's information is displayed in a card with a profile picture, name, username, and email.
+Responsive UI: The design adapts to different screen sizes for a consistent experience.
+Author
+Created by Raihan Putra Darmawan. If you have any questions or feedback, feel free to reach out!
+
+This project is a simple yet powerful demonstration of what can be achieved with Next.js and Tailwind CSS. Whether you're a beginner looking to learn or an experienced developer seeking a quick-start template, this project serves as a great foundation.
