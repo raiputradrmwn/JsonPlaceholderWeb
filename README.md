@@ -57,4 +57,3 @@ This project demonstrates the basics of a Next.js application, featuring a respo
 ## Author
 Created by Raihan Putra Darmawan. If you have any questions or feedback, feel free to reach out!
 
-This project is a simple yet powerful demonstration of what can be achieved with Next.js and Tailwind CSS. Whether you're a beginner looking to learn or an experienced developer seeking a quick-start template, this project serves as a great foundation.
